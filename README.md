@@ -1,7 +1,7 @@
 ## Multi-mineral classification of Apollo 15 Lunar microscopy samples through machine learning.
 
 ### MSc Data Science 18-20 PT  
-###Birkbeck College, University of London
+### Birkbeck College, University of London
 
 ### Abstract
 
